@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Website/static/css/main.13e2b69a.css",
+    "main.js": "/Website/static/js/main.1fc70cc6.js",
+    "static/js/453.97fdcce5.chunk.js": "/Website/static/js/453.97fdcce5.chunk.js",
+    "static/media/groupdstatic.png": "/Website/static/media/groupdstatic.8184bda0cdb133a50d20.png",
+    "static/media/filmingstatic.png": "/Website/static/media/filmingstatic.6fe995b8002e7c5ff184.png",
+    "static/media/kreustati.png": "/Website/static/media/kreustati.14ec971890558475f1e9.png",
+    "static/media/archivestatic.png": "/Website/static/media/archivestatic.93d68a0ebc96a0c0cf3a.png",
+    "static/media/laptopbgstatic.png": "/Website/static/media/laptopbgstatic.1e699e74f647553e56d6.png",
+    "static/media/phonebrowsingstatic.png": "/Website/static/media/phonebrowsingstatic.0f963c4c14ef75f75665.png",
+    "static/media/homevidstatic.png": "/Website/static/media/homevidstatic.5de3a220e468112459b6.png",
+    "static/media/adobestatic.png": "/Website/static/media/adobestatic.d8e6d896707f0e723767.png",
+    "index.html": "/Website/index.html",
+    "main.13e2b69a.css.map": "/Website/static/css/main.13e2b69a.css.map",
+    "main.1fc70cc6.js.map": "/Website/static/js/main.1fc70cc6.js.map",
+    "453.97fdcce5.chunk.js.map": "/Website/static/js/453.97fdcce5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13e2b69a.css",
+    "static/js/main.1fc70cc6.js"
+  ]
+}
