@@ -237,8 +237,8 @@
     "subtitle": "We’d love to hear from you. Reach out with your questions or ideas.",
     "infoTitle": "Contact Information",
     "address": "Rr. Ismail Qemali, Tiranë, Albania",
-    "phone": "+355 69 123 4567",
-    "email": "info@debuggersoftware.com",
+    "phone": "+355 67 635 4803",
+    "email": "debuggersoft8@gmail.com",
     "formTitle": "Send a Message",
     "form": {
       "name": "Name",
@@ -254,8 +254,8 @@
     "about": "About Us"
   },
   "footer": {
-    "address": "Rr. Ismail Qemali, Tiranë, Albania",
-    "phone": "+355 69 123 4567",
+    "address": "Rr. Ismail Qemali, Tiranë, Shqipëri",
+    "phone": "+355 67 635 4803",
     "email": "info@debuggersoftware.com",
     "rights": "© {{year}} Debugger Software. All rights reserved."
   }
