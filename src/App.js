@@ -17,6 +17,11 @@ import PricingCRM from "./pages/ProductPricing/PricingCRM";
 import PricingWebApp from "./pages/ProductPricing/PricingWebApp";
 import PricingDesign from "./pages/ProductPricing/PricingDesign"; // ✅ NEW import
 import Contact from "./pages/Contact";
+// Add this at the top of your file
+import { init } from '@emailjs/browser';
+
+// Add this before your component definition
+init("Mpzq5Vd4F3OzDwnXw");
 
 // Auto language switcher using URL prefix (e.g. /en or /al)
 function LangRouterWrapper({ children }) {

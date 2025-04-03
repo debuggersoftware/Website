@@ -244,7 +244,10 @@
       "name": "Name",
       "email": "Email",
       "message": "Your message...",
-      "send": "Send"
+      "send": "Send",
+      "sending": "Sending...",
+      "successMessage": "Message sent successfully!",
+      "errorMessage": "Error sending message. Please contact us from our phone number or send an e-mail at the address listed below."
     }
   },
   "header": {
