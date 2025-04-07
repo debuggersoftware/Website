@@ -24,10 +24,10 @@ function Footer() {
 
       <div>
         <div className='social-icons'>
-          <a href="https://linkedin.com/company/debuggersoftware" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+          <a href="https://www.tiktok.com/@debuggersoftware?_t=ZM-8vLIuV3GRBW&_r=1" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
             <img src={`${process.env.PUBLIC_URL}/linkedin.svg`} alt="LinkedIn" className="social-icon" />
           </a>
-          <a href="https://instagram.com/debuggersoftware" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+          <a href="https://www.instagram.com/debuggersoftware?igsh=MXB5cm1yZDgwY2pzcg%3D%3D&utm_source=qr" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
             <img src={`${process.env.PUBLIC_URL}/insta.svg`} alt="Instagram" className="social-icon" />
           </a>
         </div>
